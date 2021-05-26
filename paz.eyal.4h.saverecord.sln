@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paz.eyal.4h.saverecord", "paz.eyal.4h.saverecord\paz.eyal.4h.saverecord.csproj", "{E37D69F8-5F5A-4A6B-933C-064DE2C6472D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37D69F8-5F5A-4A6B-933C-064DE2C6472D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37D69F8-5F5A-4A6B-933C-064DE2C6472D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37D69F8-5F5A-4A6B-933C-064DE2C6472D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37D69F8-5F5A-4A6B-933C-064DE2C6472D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F163253-96B3-40B7-8256-35FB4FF81621}
+	EndGlobalSection
+EndGlobal
